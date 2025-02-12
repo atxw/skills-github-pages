@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/atxw/skills-github-pages/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/atxw/skills-github-pages/actions/workflows/pages/pages-build-deployment)
+
 <header>
 
 <!--
